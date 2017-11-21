@@ -1,0 +1,18 @@
+@font-face {
+  font-family: 'aksara nusantara 3.83-3';
+  src: url('aksara nusantara 3.83-3.eot');
+  src: url('aksara nusantara 3.83-3.woff2') format('woff2'),
+       url('aksara nusantara 3.83-3.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'amuktipalapa';
+  src: url('amuktipalapa.woff') format('woff'),
+       url('amuktipalapa.ttf') format('truetype'),
+       url('amuktipalapa.svg#amuktipalapa') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
